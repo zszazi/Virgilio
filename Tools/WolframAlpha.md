@@ -63,7 +63,6 @@ Matrices are used a lot, and sometimes we just need some place to go to check a 
 
 In WA, matrices are lists of lists. The outer lists collects all the rows, and the inner lists have the elements of each row, so the identity matrix of dimension 2 would be represented as [`{ {1, 0}, {0, 1} }`](https://www.wolframalpha.com/input/?i=%7B%7B1,+0%7D,+%7B0,+1%7D%7D) (by just inputing the matrix WA will automatically give you plenty of information about the matrix).
 
-To find the determinant or the trace of a matrix, you would respectively use the functions `Det[]` and `Trace[]`, so for example [`Det[{{a, b}, {c, d}}]`](https://www.wolframalpha.com/input/?i=Det%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D) gives the determinant of a general 2 by 2 matrix, and [`Trace[{{a, b}, {c, d}}]`](https://www.wolframalpha.com/input/?i=Trace%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D) gives its trace.
 
 To find the inverse, you use [`Inverse[{{a, b}, {c, d}}]`](https://www.wolframalpha.com/input/?i=Inverse%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D).
 
