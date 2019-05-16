@@ -1,13 +1,5 @@
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<head>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-  
-</head>
-
-
-  <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/zszazi/Virgilio" data-icon="octicon-star" data-size="large" aria-label="Star zszazi/Virgilio on GitHub">Star</a>
+[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/0)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/0)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/1)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/1)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/2)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/2)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/3)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/3)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/4)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/4)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/5)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/5)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/6)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/6)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/7)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/7)
 
 ![Figure 1-1](https://raw.github.com/clone95/Data-Science-Study-Paths-March-2019/master/map_eng.png "1") 
 
