@@ -1,9 +1,7 @@
 <img align="right" src="https://img.shields.io/github/forks/virgili0/Virgilio.svg?style=plastic">
 <img align="right" src="https://img.shields.io/github/issues/virgili0/Virgilio.svg?style=plastic">
 <img align="right" src="https://img.shields.io/github/stars/virgili0/Virgilio.svg?style=plastic">
-![](https://img.shields.io/github/forks/virgili0/Virgilio.svg?style=plastic)
-![](https://img.shields.io/github/issues/virgili0/Virgilio.svg?style=plastic)
-![](https://img.shields.io/github/stars/virgili0/Virgilio.svg?style=plastic)
+
 
 # VIRGILIO hall of fame
 [![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/0)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/0)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/1)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/1)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/2)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/2)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/3)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/3)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/4)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/4)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/5)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/5)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/6)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/6)[![](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/images/7)](https://sourcerer.io/fame/zszazi/zszazi/Virgilio/links/7)
